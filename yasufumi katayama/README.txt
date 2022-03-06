@@ -9,13 +9,11 @@ Unity 2019.2.8f1
 ジャンプ		   Z
 スプレー		   X
 スライディング		Ctrl
-
 ポーズ画面		  Esc		
 
 ・アイテム・
 消毒スプレー
 消毒バリア
-
 
 ～遊び方～
 ステージを駆け抜けてゴールを目指そう
@@ -28,7 +26,6 @@ Unity 2019.2.8f1
 ・素材・
 SE	魔王魂		https://test.jokersounds.com/
 	効果音ラボ	https://soundeffect-lab.info/
-
 Font	たぬきフォント	https://tanukifont.com/yojo-font/
 
 
